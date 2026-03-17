@@ -35,3 +35,6 @@ terraform -v
 1. VSCode Download Link: [VSCode](https://code.visualstudio.com/download)
 2. HashiCorp Terraform Extension: [HashiCorp Terraform](https://marketplace.visualstudio.com/items?itemName=HashiCorp.terraform)
 3. AWS Toolkit Extension: [AWS Toolkit](https://marketplace.visualstudio.com/items?itemName=AmazonWebServices.aws-toolkit-vscode)
+
+Final output:
+![Terraform and AWS Setup](../images/aws.png)
